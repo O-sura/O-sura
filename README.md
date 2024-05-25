@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Coding, Content creation & Gaming**
 
-- 📫 How to reach me **osura.silva1@gmail.com**
+- 📫 Reach me at **osura.silva1@gmail.com**
 
-- ⚡ Fun fact **Everybody thinks that I'm a NERD!!**
+- ⚡ Fun fact: **Everybody thinks that I'm a NERD!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
