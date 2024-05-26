@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osura Viduranga</h1>
-<h3 align="center">😎 Passionate coder, Content Creator, and Gamer on a mission to make the world a better place, one line of code at a time. Join me as we innovate, create, and level up together! 🚀🎮</h3>
+<h3 align="center">
+  😎 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5+Charted&size=35&pause=1000&color=30C330&background=19F1FF00&center=true&random=false&width=450&lines=Passionate+coder%2C+Content+Creator%2C+and+Gamer+on+a+mission+to+make+the+world+a+better+place%2C+one+line+of+code+at+a+time.+Join+me+as+we+innovate%2C+create%2C+and+level+up+together!+%F0%9F%9A%80%F0%9F%8E%AE" alt="Typing SVG" /></a> 🚀🎮
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=o-sura&label=Profile%20views&color=0e75b6&style=flat" alt="o-sura" /> </p>
 
