@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Osura Viduranga</h1>
 <h3 align="center">
-  😎 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5+Charted&size=35&pause=1000&color=30C330&background=19F1FF00&center=true&random=false&width=450&lines=Passionate+coder%2C+Content+Creator%2C+and+Gamer+on+a+mission+to+make+the+world+a+better+place%2C+one+line+of+code+at+a+time.+Join+me+as+we+innovate%2C+create%2C+and+level+up+together!+%F0%9F%9A%80%F0%9F%8E%AE" alt="Typing SVG" /></a> 🚀🎮
+<!--   First Line -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&color=30C330&random=false&width=900&lines=Passionate+coder%2C+Content+Creator%2C+and+Gamer" alt="Typing SVG" /></a>
+<!--   Second Line -->
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5+Charted&size=28&pause=1000&color=30C330&random=false&width=750&lines=+on+a+mission+to+make+the+world+a+better+place%2C+with+one+line+of+code+at+a+time." alt="Typing SVG" /></a>
+<!--   Thrid Line -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5+Charted&size=28&pause=1000&color=30C330&random=false&width=600&lines=+Join+me+as+we+innovate%2C+create+%26+level+up+together!+" alt="Typing SVG" /></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=o-sura&label=Profile%20views&color=0e75b6&style=flat" alt="o-sura" /> </p>
