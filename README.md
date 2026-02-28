@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osura Viduranga</h1>
 
+<img src="https://raw.githubusercontent.com/O-sura/O-sura/main/assets/profile-banner.png" alt="Profile Banner.." style="text-align: center; margin-bottom: 30px;" />
+
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&color=30C330&random=false&width=900&lines=Passionate+Engineer%2C+Content+Creator%2C+and+Gamer" alt="Typing SVG" /></a>
 </h3>
