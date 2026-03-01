@@ -6,64 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&color=30C330&random=false&width=900&lines=Passionate+Engineer%2C+Content+Creator%2C+and+Gamer" alt="Typing SVG" /></a>
 </h3>
 
-
-
-<div style="background-color:#0d1117; border-radius:10px; padding:20px; font-family: 'Courier New', monospace; color:#00ff88; box-shadow: 0 0 20px rgba(0,255,136,0.2);">
-
-<span style="color:#00ffaa;">osura@github</span>:<span style="color:#58a6ff;">~</span>$ boot profile.sh  
-
-
-<span style="color:#8b949e;">[</span> <span style="color:#3fb950; font-weight:bold;">OK</span> <span style="color:#8b949e;">]</span><span style="color:00ff88;">Loading</span> <span style="color:#00ff88;">sarcasm module</span><span style="color:#00ff88;">...</span>  
-<span style="color:#8b949e;">[</span> <span style="color:#3fb950; font-weight:bold;">OK</span> <span style="color:#8b949e;">]</span><span style="color:#00ff88;">Initializing</span> <span style="color:#00ff88;">caffeine dependency</span>  
-<span style="color:#8b949e;">[</span> <span style="color:#d29922; font-weight:bold;">WARN</span> <span style="color:#8b949e;">]</span><span style="color:#79c0ff;">Kubernetes cluster mood:</span> <span style="color:#ff7b72;">unstable</span>  
-<span style="color:#8b949e;">[</span> <span style="color:#3fb950; font-weight:bold;">OK</span> <span style="color:#8b949e;">]</span><span style="color:#00ff88;">Mounting</span> <span style="color:#00ff88;">/prod</span>  
-<span style="color:#8b949e;">[</span> <span style="color:#3fb950; font-weight:bold;">OK</span> <span style="color:#8b949e;">]</span><span style="color:#00ff88;">Compiling</span> <span style="color:#00ff88;">Go experiments</span>  
-<span style="color:#8b949e;">[</span> <span style="color:#3fb950; font-weight:bold;">OK</span> <span style="color:#8b949e;">]</span><span style="color:#00ff88;">Launching</span> <span style="color:#00ff88;">questionable side projects</span>   
-
-
-<pre style="color:#00ff88; font-family: 'Courier New', monospace; font-size:14px; line-height:1.1;">
-
-        ┌──────────────────────────────────────┐
-        │           AI VIBE ENGINE v1.0       │
-        └──────────────────────────────────────┘
-
-              [██████████░░░░░░]  training...
-              loss: decreasing
-              vibes: increasing
-
-        > import brain
-        > from internet import everything
-        > model = "trust-me-bro-v010"
-        > confidence = 0.99
-        > accuracy   = ??? 
-
-        Dataset: "Some Stackoverflow Thread"
-        Prompt engineering: advanced copy-paste
-        Overfitting level : emotional
-
-        // If it compiles → AI did it
-        // If it crashes  → infrastructure issue
-        // If it works    → obviously my idea
-
-</pre>
-
-<span style="color:#00ffaa;">osura@github</span>:<span style="color:#58a6ff;">~</span>$ whoami  
-
-
-~ I tell computers what to do.  
-Sometimes they listen. Most times they retaliate.  
-
-~ I patch APIs, debug  workflows, builds and containerize  
-stuff that worked perfectly five minutes ago.  
-
-~ After hours? I experiment with Go, ML, and ideas  
-that may or may not survive 37 refactors.  
-
-
-[+] SYSTEM: <span style="color:#d29922;">operational</span>  
-[+] Ego state: <span style="color:#ff7b72;">humbled by production</span>  
-
-</div>
+<img src="https://raw.githubusercontent.com/O-sura/O-sura/main/assets/profile-terminal-1.png" alt="Profile Terminal.." style="text-align: center; " />
+<img src="https://raw.githubusercontent.com/O-sura/O-sura/main/assets/profile-terminal-2.png" alt="Profile Terminal.." style="text-align: center; margin-bottom: 30px;" />
 
 
 <h3 align="left">Connect with me:</h3>
