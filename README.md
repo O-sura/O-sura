@@ -58,12 +58,12 @@
 
 ---
 
-## <center> RAP Sheet (Git Edition) </center>
+<h2 align="center"> RAP Sheet (Git Edition) </center>
 
 ---
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&fontFamily=42dot%20Sans&preferLogin=false">    <img  alt="O-sura's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/O-sura?cardType=github&theme=gotham&fontFamily=42dot%20Sans&preferLogin=false" />  </a>
+ <img  alt="O-sura's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/O-sura?cardType=github&theme=gotham&fontFamily=42dot%20Sans" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o-sura&=&theme=gotham" alt="o-sura" />
